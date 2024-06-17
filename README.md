@@ -4,7 +4,7 @@ A list of python projects i want to do from [this](https://www.dataquest.io/blog
 # Free Projects (Recommended):
 
 
-
+DONE
 ## Building an Interactive Game — In this guided project, you’ll use basic Python programming concepts to create a functional and interactive word-guessing game.
 
 
