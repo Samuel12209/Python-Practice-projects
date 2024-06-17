@@ -12,23 +12,6 @@ A list of python projects i want to do from [this](https://www.dataquest.io/blog
 ## More Python Projects to Help Build Your Portfolio:
 
 
-
-## Storytelling Data Visualization on Exchange Rates — Quickly create multiple subsetted plots using one or more conditions.
-
-
-
-## Clean and Analyze Employee Exit Surveys — Work with exit surveys from employees of the Department of Education in Queensland, Australia. Play the role of a data analyst and pretend the stakeholders want answers to important data questions.
-
-
-
-## Star Wars Survey — In this data cleaning project, you’ll work with Jupyter Notebook to analyze data on the Star Wars movies.
-
-
-
-## Analyzing NYC High School Data — Discover the SAT performance of different demographics using scatter plots and maps.
-
-
-
 ## Predicting the Weather Using Machine Learning — This machine learning project will help you prepare data, work with time series data, measure error, and improve your model performance.
 
 
