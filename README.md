@@ -11,14 +11,6 @@ A list of python projects i want to do from [this](https://www.dataquest.io/blog
 ## More Python Projects to Help Build Your Portfolio:
 
 
-## Predicting the Weather Using Machine Learning — This machine learning project will help you prepare data, work with time series data, measure error, and improve your model performance.
-
-
-
-## Predicting Car Prices — Practice the machine learning workflow using k-nearest neighbors to predict car prices.
-
-
-
 ## Python Projects for AI Enthusiasts:
 
 ## Building an AI Chatbot with Streamlit — Build a simple website with an AI chatbot user interface similar to the OpenAI Playground in this intermediate-level project.
