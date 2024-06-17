@@ -10,7 +10,6 @@ A list of python projects i want to do from [this](https://www.dataquest.io/blog
 
 
 ## More Python Projects to Help Build Your Portfolio:
-## Finding Heavy Traffic Indicators on I-94 — Explore how using the pandas plotting functionality along with the Jupyter Notebook interface allows us to explore data quickly using visualizations.
 
 
 
