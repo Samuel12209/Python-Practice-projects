@@ -13,10 +13,6 @@ A list of python projects i want to do from [this](https://www.dataquest.io/blog
 
 ## Python Projects for AI Enthusiasts:
 
-## Building an AI Chatbot with Streamlit — Build a simple website with an AI chatbot user interface similar to the OpenAI Playground in this intermediate-level project.
-
-
-
 ## Developing a Dynamic AI Chatbot — Create your very own AI-powered chatbot that can take on different personalities, keep track of conversation history, and provide coherent responses in this intermediate-level project.
 
 
