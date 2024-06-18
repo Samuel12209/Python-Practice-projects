@@ -27,7 +27,17 @@ encryption_codes = {
     'x': ' fmhystvwavmeixqtawepsdmwcycllwwoztseqdnobludzfyevf',
     'y': ' cpuxsfkklusxuoxwkzlaxoktkorjpmmvflridpxbmpcxuefnqq',
     'z': ' llzjuiwpkmdoedddimksvcyotvvhusldceeqxmuyzjmmzveecv',
-    ' ': ' lgynwsipbyztwigqhbtkxqeklrifycwlbneenktuflqeeihcgs'
+    ' ': ' lgynwsipbyztwigqhbtkxqeklrifycwlbneenktuflqeeihcgs', #THIS IS A SPACE
+    '1': ' yztplmijrbbxotzwjklhnyhowfnjdfevirgcszgaurnbnkmwzx',
+    '2': ' jtowdgovvoedxsqkiiwtmisusmhdjlecvxsqlbiswithrnsauf',
+    '3': ' nstigjiuiwhwlutkvvouivzoxfardhoakheqcktncrcpgclmqj',
+    '4': ' zxfhrvwrbtiltjflhqazhtltbtttjaskgwybhuflfsphjzwaci',
+    '5': ' dzrstmslrlkbrjrtnpgjtekkrsfhiqwmscyiqvbqoslazqfbtj',
+    '6': ' mdzjgdrsinbhvelzdzffjusvtxlzwkzpthmspjnpazvzdkllbs',
+    '7': ' eqxdruhrfcisqzwwzbrncrkzlynanqctzpevfnlvisonzdlhpe',
+    '8': ' kneygvdfqzpaadzoypshbrkrxmlomeojabwoncpdxubtmqbjlm',
+    '9': ' wamdfirlhrvkkgodlovlioscjwwaqvowexcghzkflryurecdhx',
+    '0': ' clhoxaprzjxwzgzjlqansvlijaflkgdfqrsjmovembjwsbisbf'
 }
 
 Encrypted = []
@@ -41,5 +51,5 @@ for char in Sentence:
         Encrypted.append(char)
 
 Encrypted = "".join(Encrypted)
-f = open('Word Encryptor/message.txt','w')
+f = open('Word Encryptor/message.txt','w') # This destination can vary depending where you run this code
 f.write(Encrypted)
