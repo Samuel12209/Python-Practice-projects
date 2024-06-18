@@ -11,47 +11,7 @@ A list of python projects i want to do from [this](https://www.dataquest.io/blog
 ## More Python Projects to Help Build Your Portfolio:
 
 
-## Python Projects for AI Enthusiasts:
-
-## Building an AI Chatbot with Streamlit — Build a simple website with an AI chatbot user interface similar to the OpenAI Playground in this intermediate-level project.
-
-
-
 ## Developing a Dynamic AI Chatbot — Create your very own AI-powered chatbot that can take on different personalities, keep track of conversation history, and provide coherent responses in this intermediate-level project.
-
-
-
-## Building a Food Ordering App — Create a functional and interactive food ordering application using Python.
-
-
-
-## Fun Python Projects for Building Data Skills:
-## Exploring eBay Car Sales Data — Use Python to work with a scraped dataset of used cars from eBay Kleinanzeigen, a classifieds section of the German eBay website.
-
-
-
-## Find out How Much Money You’ve Spent on Amazon — Dig into your own spending habits with this beginner-level tutorial!
-
-
-
-## Analyze Your Own Netflix Data — Another beginner-to-intermediate tutorial that gets you working with your own personal dataset.
-
-
-
-## Analyze Your Personal Facebook Posting Habits — Are you spending too much time posting on Facebook? The numbers don’t lie, and you can find them in this beginner-to-intermediate Python project.
-
-
-
-## Analyze Survey Data — This walk-through will show you how to set up Python and how to filter survey data from any dataset (or just use the sample data linked in the article).
-
-
-
-## Dataquest’s Guided Projects — These guided data science projects walk you through building real-world data projects of increasing complexity, with suggestions for how to expand each project.
-
-
-
-## Analyze Everything — Grab a free dataset that interests you, and start poking around! If you get stuck or aren’t sure where to start, our Python courses are here to help, and you can try them for free!
-
 
 
 ## Cool Python Projects for Game Devs:
@@ -203,7 +163,7 @@ A list of python projects i want to do from [this](https://www.dataquest.io/blog
 
 
 ## Python Project Ideas: Advanced Level
-Build a stock market prediction app. For this one, you’ll need a source of stock market data and some machine learning and data analytics skills, but many people have tried this, so there’s plenty of source code out there to work from.
+## Build a stock market prediction app. For this one, you’ll need a source of stock market data and some machine learning and data analytics skills, but many people have tried this, so there’s plenty of source code out there to work from.
 
 
 
