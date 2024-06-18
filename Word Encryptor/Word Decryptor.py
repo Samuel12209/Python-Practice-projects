@@ -1,4 +1,4 @@
-with open('Word Encryptor/message.txt') as f:
+with open('Word Encryptor/message.txt') as f: # Varies where the location of message.txt is
     code = f.read()
 
 Sentence = code.split(' ')
@@ -30,7 +30,7 @@ encryption_codes = {
     'fmhystvwavmeixqtawepsdmwcycllwwoztseqdnobludzfyevf': 'x',
     'cpuxsfkklusxuoxwkzlaxoktkorjpmmvflridpxbmpcxuefnqq': 'y',
     'llzjuiwpkmdoedddimksvcyotvvhusldceeqxmuyzjmmzveecv': 'z',
-    'lgynwsipbyztwigqhbtkxqeklrifycwlbneenktuflqeeihcgs': ' '
+    'lgynwsipbyztwigqhbtkxqeklrifycwlbneenktuflqeeihcgs': ' ' # THIS IS A SPACE
 }
 
 Encrypted = []
