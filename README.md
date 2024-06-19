@@ -1,5 +1,7 @@
 # Python-projects-to-do
-A list of python projects i want to do from [this](https://www.dataquest.io/blog/python-projects-for-beginners/) website to get more experience
+A list of python projects i want to do 10 projects from [this](https://www.dataquest.io/blog/python-projects-for-beginners/) website to get more experience
+
+# PROJECTS:
 
 # Free Projects (Recommended):
 
